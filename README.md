@@ -16,11 +16,8 @@ Project Status: :heavy_check_mark: Completed
 
 :small_blue_diamond: [Funcionalities](#funcionalities)
 
-:small_blue_diamond: [How it works](#how-it-works)
-
 :small_blue_diamond: [Application Deploy](#application-deploy)
 
-:small_blue_diamond: [Project Developers](#developers)
 
 
 ## Project Description 
