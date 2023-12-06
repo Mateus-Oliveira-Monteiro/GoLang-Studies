@@ -1,5 +1,5 @@
 <h1>Playing Card Interactions with GoLang</h1>
-Project Status: :heavy_check_mark: Completed
+Project Status:  Completed ✔️
 <br>
 <h2>Languages Used</h2>
 <p align="left">
