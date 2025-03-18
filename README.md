@@ -48,10 +48,6 @@ Local deployment only, you can download the code and run in vscode
 <br>
 
 ## Developers
-
-
-
-Copyright :copyright: 2023 - AlMossar Interface
  
   
 </span>  
